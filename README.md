@@ -16,8 +16,8 @@ Expect bugs and raise them using the following template.
 
 Template:
 
-> Issue:
-> Current behavior:
-> Expected behavior:
-> Screenshots/Video
-> Additional information:
+>  Issue:  
+>  Current behavior:  
+>  Expected behavior:    
+>  Screenshots/Video:  
+>  Additional information:  
