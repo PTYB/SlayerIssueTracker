@@ -18,7 +18,7 @@ Expect bugs and raise them using the following template.
 ## Configuration guide
 [Link here](https://github.com/PTYB/SlayerIssueTracker/wiki)
 
-Template:
+## Template:
 
 >  Issue:  
 >  Current behavior:  
