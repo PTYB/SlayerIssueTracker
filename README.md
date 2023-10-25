@@ -20,8 +20,8 @@ Expect bugs and raise them using the following template.
 >  Current behavior:  
 >  Expected behavior:    
 >  Screenshots/Video:
->  Master:
->  Task:
+>  Master:  
+>  Task:  
 >  Additional information:  
 
 ## Configuration guide
