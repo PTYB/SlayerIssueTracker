@@ -19,7 +19,7 @@ Expect bugs and raise them using the following template.
 >  Issue:  
 >  Current behavior:  
 >  Expected behavior:    
->  Screenshots/Video:
+>  Screenshots/Video:  
 >  Master:  
 >  Task:  
 >  Additional information:  
