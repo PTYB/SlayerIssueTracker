@@ -13,4 +13,5 @@ assignees: ''
 **Screenshots/Video:**
 **Master:**
 **Task:**
+**Logs:**
 **Additional information:**
